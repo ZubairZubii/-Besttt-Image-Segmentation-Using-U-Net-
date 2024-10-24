@@ -102,6 +102,9 @@ plt.title('Training Loss')
 plt.show()
 ```
 
+![charts](https://github.com/user-attachments/assets/586273c3-f76e-46de-8b6d-58ec99639313)
+
+
 ### Example Training Output
 
 ```
@@ -158,6 +161,9 @@ For inquiries or feedback, feel free to reach out:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+![mask_](https://github.com/user-attachments/assets/0ea7796a-7d22-43e7-827a-cefc5859405f)
+
 
 ### ⭐️ Thank you for checking out Besttt! ⭐️
 
